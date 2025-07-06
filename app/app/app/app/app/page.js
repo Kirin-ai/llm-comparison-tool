@@ -1,4 +1,8 @@
+"use client";
+
 import React, { useState, useMemo } from 'react';
+import { Search, Star, Filter, ChevronDown, ChevronUp, ExternalLink, Zap, Shield, Code, Globe, Brain, DollarSign } from 'lucide-react';
+// ... rest of your codeimport React, { useState, useMemo } from 'react';
 import { Search, Star, Filter, ChevronDown, ChevronUp, ExternalLink, Zap, Shield, Code, Globe, Brain, DollarSign } from 'lucide-react';
 
 const LLMComparison = () => {
